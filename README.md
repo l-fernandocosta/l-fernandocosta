@@ -2,7 +2,7 @@
 
 I’m a Front-end developer.
 
-<p align="left"> <img src="https://scontent.fmii7-1.fna.fbcdn.net/v/t39.30808-6/278486372_163799969344613_6466062881469930615_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeF4NTayuimVcmMdicd6XQY4VdXM6uXAc6BV1czq5cBzoBL5eyBpz4hg8f4EXHGbo-2rYv-i9rNWUnRWGmIQv_2q&_nc_ohc=rsNGEUVspPEAX8SsiNK&_nc_ht=scontent.fmii7-1.fna&oh=00_AT_bQtF7hP41pGcYwGa1ODpunnnmXwdE8hK3Cs9A0By6AA&oe=626699D2" alt="Profile Image " /> </p>
+<p align="left"> <img src="https://scontent.fmii7-1.fna.fbcdn.net/v/t39.30808-6/278486372_163799969344613_6466062881469930615_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeF4NTayuimVcmMdicd6XQY4VdXM6uXAc6BV1czq5cBzoBL5eyBpz4hg8f4EXHGbo-2rYv-i9rNWUnRWGmIQv_2q&_nc_ohc=rsNGEUVspPEAX8SsiNK&_nc_ht=scontent.fmii7-1.fna&oh=00_AT_bQtF7hP41pGcYwGa1ODpunnnmXwdE8hK3Cs9A0By6AA&oe=626699D2" width=64 height=64 alt="Profile Image " /> </p>
 
 #### My current tools 
 📲 Front-end Mobile with React Native  
