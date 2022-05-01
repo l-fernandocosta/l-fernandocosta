@@ -1,6 +1,7 @@
 ### Hi, I'm Fernando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I’m a Front-end developer and I'm passionate about keeping things simple.
+I’m a Front-end developer at NextMed.
+Passionate about keeping things simple.
 
 #### My current tools 
 📲 Front-end Mobile with React Native  
